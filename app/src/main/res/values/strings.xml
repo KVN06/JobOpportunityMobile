@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JobOpportunityMobile</string>
+    <string name="app_name_splash">Job Opportunity</string>
+    <string name="splash_logo_content_description">Logo de Job Opportunity</string>
+    <string name="app_version_splash">v1.0.0</string>
+</resources>
